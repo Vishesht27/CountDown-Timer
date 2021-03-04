@@ -1,3 +1,4 @@
 # CountDown-Timer
 
-<img src="https://drive.google.com/file/d/1KGBRlJVbOVqFLVcYKbZfb9gLQTH1OHvo/view?usp=sharing">
+<img src="pic1">
+<img src="pic2">
